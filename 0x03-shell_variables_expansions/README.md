@@ -16,3 +16,4 @@
  100- converts a number from base 10 to base 16
  101-encodes and decodes text using the rot13 encryption. Assume ASCII
  102-prints every other line from the input, starting with the first line
+ 103- adds the two numbers stored in the environment variables WATER and STIR and prints the result
