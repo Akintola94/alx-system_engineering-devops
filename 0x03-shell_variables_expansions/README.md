@@ -6,3 +6,4 @@
  4-Lists environment variables
  5-Lists all local variables and environment variables and functions
  6-creates a new local variable
+ 7-creates a new global variable
