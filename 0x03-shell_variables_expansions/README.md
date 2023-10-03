@@ -7,3 +7,4 @@
  5-Lists all local variables and environment variables and functions
  6-creates a new local variable
  7-creates a new global variable
+ 8-Value stored in environment variable"
